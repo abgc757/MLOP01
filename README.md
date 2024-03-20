@@ -261,7 +261,7 @@ El gráfico de dispersión de precios muestra la variabilidad en los costos de l
 
 ### Deploy
 Para realizar un deploy del proyecto se utilizó [render.com/](https://render.com/) como plataforma. Puede probar el deploy en 
-https://https-6cp6.onrender.com/
+https://mlop01.onrender.com/
 
 ### Video del proyecto
 Consulte el video del proyecto desde [Youtube](https://youtu.be/-XHZDQSwNH4)
