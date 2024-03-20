@@ -1,0 +1,15 @@
+# Ignorar archivos de construcción
+build/
+dist/
+
+# Ignorar archivos de caché y logs
+*.log
+*.cache
+
+# Ignorar archivos generados por editores de texto
+*.swp
+*~
+
+# Ignorar archivos de configuración específicos
+.env
+*.json
